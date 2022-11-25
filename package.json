@@ -15,6 +15,7 @@
     "type": "git",
     "url": "https://github.com/dreki/vscode-auto-close-folders.git"
   },
+  "publisher": "SeanGilbertson",
   "activationEvents": [
     "onStartupFinished"
   ],
